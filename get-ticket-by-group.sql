@@ -7,3 +7,4 @@ AND gt.is_deleted = 0
 AND ggt.`type` = 2
 GROUP BY gg.name
 ## Fin
+##
